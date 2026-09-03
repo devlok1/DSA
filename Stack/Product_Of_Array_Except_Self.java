@@ -3,6 +3,7 @@
     
     Idea:
     Use a prefix / postfix or left or right concept.
+    Two pointer Concept.
     We multiple indexes left/ prefix of Index i ;
     and the same with indexes on right / postfix of INdex i.
     and then we multiple both.
