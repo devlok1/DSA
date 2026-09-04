@@ -12,8 +12,7 @@
     The Solution here is Simply a logic 
     and will not run without Main() method.
 
-*/     
-        
+*/
 class Solution {
     public int[] dailyTemperatures(int[] temperatures) {
         int answer[] = new int[temperatures.length];

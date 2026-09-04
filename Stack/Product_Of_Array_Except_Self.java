@@ -14,7 +14,6 @@
     and will not run without Main() method.
 
 */ 
-
 class Solution {
     public int[] productExceptSelf(int[] nums) {
         int n = nums.length;
