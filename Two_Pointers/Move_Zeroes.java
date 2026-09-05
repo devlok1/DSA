@@ -11,7 +11,7 @@ package Two_Pointers;
 */
 class Move_Zeroes {
     public void moveZeroes(int[] nums) {
- 	int left = 0 ; // stores the non zero number. 
+ 	int left = 0 ; // stores the non zero number index or index where the next non-zero element should be placed.
 	
 	for ( int right = 0 ; right < nums.length ; right ++)
 	// right scans the array elements
