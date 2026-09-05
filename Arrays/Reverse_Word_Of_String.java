@@ -1,3 +1,4 @@
+package Arrays;
 /*
     Problem Statement: Reverse Word  of string 
 
@@ -14,7 +15,7 @@
     Space: O(n)
 
 */
-class Solution {
+class Reverse_Word_Of_String {
     public String reverseWords(String s) {
         s = s.trim();
         String[] words = s.split("\\s+");

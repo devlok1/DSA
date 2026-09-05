@@ -1,3 +1,4 @@
+package Stack;
 /*  
     Problem : Porduct Of Array Except Self   
     
@@ -15,7 +16,7 @@
     and will not run without Main() method.
 
 */ 
-class Solution {
+class Product_Of_Array_Except_Self {
     public int[] productExceptSelf(int[] nums) {
         int n = nums.length;
         int ans[] = new int[n];

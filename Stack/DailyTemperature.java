@@ -1,3 +1,5 @@
+package Stack;
+import java.util.Stack;
 /*  
     Problem : Daily Temperature   
     
@@ -13,7 +15,7 @@
     and will not run without Main() method.
 
 */
-class Solution {
+class DailyTemperature {
     public int[] dailyTemperatures(int[] temperatures) {
         int answer[] = new int[temperatures.length];
 
