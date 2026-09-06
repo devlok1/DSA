@@ -1,8 +1,5 @@
 {
     "java.project.sourcePaths": [
-        "Arrays",
-        "Stack",
-        "Trees",
-        "Two_Pointers"
+        "."
     ]
 }
